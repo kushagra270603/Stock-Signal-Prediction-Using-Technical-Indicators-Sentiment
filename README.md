@@ -13,13 +13,6 @@ This project proposes a novel hybrid framework combining classical technical ind
 - Predictive models: **XGBoost**, **CNN-LSTM**, and **Gradient Boosting Classifier**
 - Rule-based signal generation strategy
 
-## 📁 Folder Structure
-
-- `data/`: Contains the sentiment and stock price datasets
-- `notebooks/`: Jupyter notebooks for data processing and modeling
-- `figures/`: Plots for model performance and results
-- `paper/`: PDF of the IEEE-style research paper
-
 ## 🔍 Dataset
 
 - `Apple.csv`: Tweet-based sentiment scores (labels: -1, 0, +1)

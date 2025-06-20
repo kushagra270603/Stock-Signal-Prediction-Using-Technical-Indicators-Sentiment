@@ -42,9 +42,3 @@ This project proposes a novel hybrid framework combining classical technical ind
 - Incorporate news data (e.g., Reddit, financial headlines)
 - Live backtesting with trading APIs
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/FinSent-TI.git
-cd FinSent-TI
-pip install -r requirements.txt
